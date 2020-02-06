@@ -1,6 +1,4 @@
 def speak_to_grandma
-  phrase = "hello_grandma"
-  if "phrase".downcase
-    return "HUH? ! SPEAK UP SONNY!"
-  end
+  phrase = "I_LOVE_YOU_GRANDMA"
+ puts #{phrase}
 end
